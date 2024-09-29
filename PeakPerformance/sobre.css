@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Gowun+Batang&display=swap');
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #DEEFE7;
+}
+
+header {
+    background: #002333;
+    color: #ffffff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+}
+
+main {
+    padding: 20px;
+    background: #DEEFE7;
+    max-width: 800px;
+    margin: 20px auto;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    color: #35424a;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background: #DEEFE7;
+    color: #002333;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
